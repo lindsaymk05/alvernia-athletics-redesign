@@ -1,31 +1,44 @@
-# Website Testing Log
+# TEST_LOG.md
 
 ## Project
 Alvernia Athletics Website Redesign
 
-## Testing Checklist
+## Testing Results
 
-| Test | Status | Notes |
+| Test | Result | Notes |
 |---|---|---|
-| Homepage loads successfully | Passed | The redesigned homepage opens through GitHub Pages. |
-| Sports directory search | Not tested | Need to search for a sport and confirm the results. |
-| Sports directory filters | Not tested | Need to test the sport category filters. |
-| Team page links | Not tested | Need to open team links and confirm they lead to the correct official pages. |
-| Schedules and news links | Not tested | Need to check that the links open the correct resources. |
-| Mobile layout | Not tested | Need to check the website on a phone or narrow browser window. |
-| Keyboard navigation | Not tested | Need to navigate the website using Tab, Enter, and other keyboard controls. |
-| Empty search results | Not tested | Need to search for a sport that does not exist and check the message displayed. |
+| 1. Sports directory search | PASS | Searching for a sport displays matching team cards. |
+| 2. Sports filters | PASS | The All Sports, Men, Women, and Other filters work. |
+| 3. Navigation and links | PASS | Main navigation and links to official athletics resources work. |
+| 4. Phone layout | PASS | The page adjusts to a smaller screen and the mobile menu opens. |
+| 5. Keyboard accessibility | PASS | Navigation and interactive controls can be reached using the keyboard. |
+| 6. Empty search state | PASS | A message appears when no sports match the search. |
+| 7. Website loading | PASS | The redesigned website loads from its published GitHub Pages URL. |
+| 8. Logo and video | PASS | The Golden Wolves branding and video section display on the updated website. |
 
-## Peer Testing
+## Peer Visitor Test
 
-**Visitor task:** Ask a classmate to find a specific Alvernia sports team and locate its schedule using the redesigned homepage.
+**Status: Not completed yet.**
 
-**Peer feedback:** To be completed after the classmate tests the website.
+Visitor task: Ask a classmate to use the website to find the Women's Lacrosse team and locate the official schedules page without giving them instructions.
 
-**Revision made:** To be completed after reviewing the feedback.
+Record the following after the test:
 
-**Retest results:** To be completed after making the revision.
+- Could the visitor find the Women's Lacrosse page?
+- Could the visitor locate schedules?
+- Where did the visitor hesitate or get confused?
+- What suggestion did the visitor make?
 
-## Testing Summary
+**Peer feedback:** Add the actual feedback here.
 
-The homepage has been published through GitHub Pages. Additional functionality, mobile, keyboard, and peer testing still need to be completed before final submission.
+## Revision After Peer Feedback
+
+**Status: Pending peer test.**
+
+After the peer test, make at least one useful change based on the feedback, if needed. Ask the visitor to try the task again and record whether the change helped.
+
+## Final Notes
+
+The redesigned website includes a responsive layout, sports search and filtering, navigation links, an empty search state, Golden Wolves branding, and an embedded athletics video.
+
+The website is an independent student redesign. Official athletics information is linked to Alvernia's existing website.
