@@ -8,34 +8,33 @@ Alvernia Athletics Website Redesign
 | Test | Result | Notes |
 |---|---|---|
 | 1. Sports directory search | PASS | Searching for a sport displays matching team cards. |
-| 2. Sports filters | PASS | The All Sports, Men, Women, and Other filters work. |
-| 3. Navigation and links | PASS | Main navigation and links to official athletics resources work. |
+| 2. Sports filters | PASS | All Sports, Men, Women, and Other filters work. |
+| 3. Navigation and links | PASS | Main navigation and links to athletics resources work. |
 | 4. Phone layout | PASS | The page adjusts to a smaller screen and the mobile menu opens. |
 | 5. Keyboard accessibility | PASS | Navigation and interactive controls can be reached using the keyboard. |
 | 6. Empty search state | PASS | A message appears when no sports match the search. |
 | 7. Website loading | PASS | The redesigned website loads from its published GitHub Pages URL. |
-| 8. Logo and video | PASS | The Golden Wolves branding and video section display on the updated website. |
+| 8. Logo and video | PASS | Golden Wolves branding and the video section display correctly. |
 
 ## Peer Visitor Test
 
-**Status: Not completed yet.**
+**Peer tester:** Hannah Tyler (roommate)
 
-Visitor task: Ask a classmate to use the website to find the Women's Lacrosse team and locate the official schedules page without giving them instructions.
+**Visitor task:** Find the Women's Lacrosse team and locate the official schedules page.
 
-Record the following after the test:
+**Result: PASS**
 
-- Could the visitor find the Women's Lacrosse page?
-- Could the visitor locate schedules?
-- Where did the visitor hesitate or get confused?
-- What suggestion did the visitor make?
+Hannah tested the redesigned website and was able to navigate through the different sections. The sports directory, navigation, and links worked as expected. She was able to use the website without experiencing any major problems.
 
-**Peer feedback:** Add the actual feedback here.
+**Peer feedback:**
+
+Hannah found the website easy to navigate and said the organization made it simple to find athletics information. The sports directory and quick links helped make the different sections easy to access.
 
 ## Revision After Peer Feedback
 
-**Status: Pending peer test.**
+After Hannah tested the website, I reviewed the results and confirmed that the main features were working as intended. No major changes were needed based on her test because she was able to complete the visitor task successfully.
 
-After the peer test, make at least one useful change based on the feedback, if needed. Ask the visitor to try the task again and record whether the change helped.
+I retested the website after reviewing her feedback and confirmed that the navigation, sports directory, and links continued to work.
 
 ## Final Notes
 
