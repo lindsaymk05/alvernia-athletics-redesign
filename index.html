@@ -230,6 +230,13 @@
       html { scroll-behavior:auto; }
       *, *::before, *::after { transition:none !important; animation:none !important; }
     }
+    .brand-logo {
+  width: 65px;
+  height: 65px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+}
   </style>
 </head>
 <body>
@@ -243,7 +250,7 @@
   <header class="site-header">
     <div class="wrap nav-row">
       <a class="brand" href="#home" aria-label="Golden Wolves Athletics home">
-        <span class="brand-mark" aria-hidden="true">AU</span>
+        <img class="brand-logo" src="golden-wolves-logo.png" alt="Alvernia Golden Wolves logo">
         <span class="brand-copy"><strong>GOLDEN WOLVES</strong><span>ALVERNIA ATHLETICS</span></span>
       </a>
       <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="mainNav">☰ Menu</button>
@@ -390,7 +397,7 @@
       <div class="footer-grid">
         <div>
           <a class="brand" href="#home" style="color:#fff">
-            <span class="brand-mark">AU</span>
+            <img class="brand-logo" src="golden-wolves-logo.png" alt="Alvernia Golden Wolves logo">
             <span class="brand-copy"><strong>GOLDEN WOLVES</strong><span style="color:rgba(255,255,255,.62)">ALVERNIA ATHLETICS</span></span>
           </a>
           <p>A redesigned way to explore Alvernia University Athletics.</p>
